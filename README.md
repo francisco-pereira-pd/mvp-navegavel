@@ -1,4 +1,4 @@
-# MVP TCERR - Teste de Usabilidade
+# MVP Bavegação - Teste de Usabilidade
 
 Uma ferramenta para criar protótipos navegáveis a partir de imagens do Figma e realizar testes de usabilidade.
 
@@ -105,4 +105,4 @@ src/
 
 ## Licença
 
-Projeto interno - TCERR
+Projeto interno - PDCASE
