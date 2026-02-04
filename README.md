@@ -1,7 +1,6 @@
-# MVP Bavegação - Teste de Usabilidade
+# MVP de Navegação em Telas - Teste de Usabilidade
 
 Uma ferramenta para criar protótipos navegáveis a partir de imagens do Figma e realizar testes de usabilidade.
-
 
 ## Funcionalidades
 
@@ -79,11 +78,11 @@ npm run preview
 1. Acesse a página de Análise
 2. Selecione o projeto
 3. Visualize:
-   - Número de sessões de teste
-   - Total de cliques
-   - Duração média das sessões
-   - Heatmap de cliques por tela
-   - Cliques perdidos (fora dos hotspots)
+  - Número de sessões de teste
+  - Total de cliques
+  - Duração média das sessões
+  - Heatmap de cliques por tela
+  - Cliques perdidos (fora dos hotspots)
 
 ## Estrutura do Projeto
 
