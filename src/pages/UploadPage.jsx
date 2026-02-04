@@ -76,7 +76,7 @@ function UploadPage() {
   const handleCreateProjectAndContinue = () => {
     let projectId = selectedProjectId
 
-    // Criar novo projeto se necessário
+    //  Criar novo projeto se necessário
     if (!projectId && newProjectName.trim()) {
       const newProject = createProject(newProjectName.trim())
       projectId = newProject.id

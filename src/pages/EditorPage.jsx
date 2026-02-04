@@ -29,7 +29,7 @@ function EditorPage() {
   const currentScreen = project?.screens[selectedScreenIndex]
   const selectedHotspot = currentScreen?.hotspots.find(h => h.id === selectedHotspotId)
 
-  // Reset selected hotspot when changing screens
+  //  Reset selected hotspot when changing screens
   useEffect(() => {
     setSelectedHotspotId(null)
   }, [selectedScreenIndex])

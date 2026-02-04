@@ -38,7 +38,7 @@ function HomePage() {
 
   return (
     <div className="animate-fade-in">
-      {/* Hero Section */}
+      {/*  Hero Section */}
       <div className="text-center mb-12">
         <h1 className="text-4xl font-bold text-gray-900 mb-4">
           Teste de Usabilidade com Protótipos

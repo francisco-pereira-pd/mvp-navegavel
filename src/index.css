@@ -13,9 +13,9 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* Animações personalizadas */
+/*  Animações personalizadas */
 @keyframes fadeIn {
-  from { opacity: 0; }
+  from {  opacity: 0; }
   to { opacity: 1; }
 }
 

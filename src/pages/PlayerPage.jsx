@@ -23,7 +23,7 @@ function PlayerPage() {
 
   const currentScreen = project?.screens[currentScreenIndex]
 
-  // Iniciar sessão de rastreamento
+  //  Iniciar sessão de rastreamento
   useEffect(() => {
     if (project) {
       const newSessionId = startSession(projectId)

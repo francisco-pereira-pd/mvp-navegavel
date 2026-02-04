@@ -21,7 +21,7 @@ function AnalyticsPage() {
   const sessions = selectedProjectId ? getProjectSessions(selectedProjectId) : []
   const selectedScreen = project?.screens.find(s => s.id === selectedScreenId)
 
-  // Selecionar primeira tela quando mudar projeto
+  //  Selecionar primeira tela quando mudar projeto
   useEffect(() => {
     if (project?.screens.length > 0 && !selectedScreenId) {
       setSelectedScreenId(project.screens[0].id)
