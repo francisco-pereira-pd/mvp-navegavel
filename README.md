@@ -2,6 +2,7 @@
 
 Uma ferramenta para criar protótipos navegáveis a partir de imagens do Figma e realizar testes de usabilidade.
 
+
 ## Funcionalidades
 
 - **Upload de Telas**: Faça upload de imagens exportadas do Figma (PNG, JPG, etc.)
